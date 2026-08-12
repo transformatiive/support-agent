@@ -35,3 +35,4 @@ mapping in `references/config.json` of `inbox-jira-review.skill`), cloud ID
 | Run (UTC) | Email window checked | Result | Tickets created |
 |---|---|---|---|
 | 2026-07-13 17:00 | `to:suporte@transformatiive.com` / `cc:suporte@transformatiive.com`, last 1h15m (15:45–17:00 UTC) | No new emails to `suporte@transformatiive.com` in the window. Mailbox's only messages to that address are from 2026-06-28 (already answered, internal CRM change list) and August 2025 (AuditConsult / TRNSF-73, already answered). | None |
+| 2026-08-12 17:11 | `to:suporte@transformatiive.com` (to/cc), last 1h15m (15:56–17:11 UTC) | No new emails to `suporte@transformatiive.com` in the window. Most recent message to that address is from 2026-08-11 10:13 (Buenavista Invoice Parser thread, already answered / TRNSF-429). Other recent threads involving the address (Leasys LSYSPT-50 P1 Dataprep bug, Buenavista Zoho login issue) are from 2026-08-05–08-07 and already tracked/resolved. | None |
