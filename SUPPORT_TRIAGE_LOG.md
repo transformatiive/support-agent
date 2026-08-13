@@ -35,3 +35,4 @@ mapping in `references/config.json` of `inbox-jira-review.skill`), cloud ID
 | Run (UTC) | Email window checked | Result | Tickets created |
 |---|---|---|---|
 | 2026-07-13 17:00 | `to:suporte@transformatiive.com` / `cc:suporte@transformatiive.com`, last 1h15m (15:45–17:00 UTC) | No new emails to `suporte@transformatiive.com` in the window. Mailbox's only messages to that address are from 2026-06-28 (already answered, internal CRM change list) and August 2025 (AuditConsult / TRNSF-73, already answered). | None |
+| 2026-08-13 17:25 | `to:suporte@transformatiive.com`, last 1h15m (16:10–17:25 UTC) | No new emails to `suporte@transformatiive.com` in the window. Most recent message to that address is the Buenavista "Invoice Parser" thread (jfs@buenavistaequity.pt → suporte@, sent 2026-08-13T11:00:58Z), which is outside this window and is an existing, already-tracked thread (part of ongoing Invoice Parser issue on TRNSF-429, not a new/untriaged request). | None |
