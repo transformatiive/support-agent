@@ -35,3 +35,4 @@ mapping in `references/config.json` of `inbox-jira-review.skill`), cloud ID
 | Run (UTC) | Email window checked | Result | Tickets created |
 |---|---|---|---|
 | 2026-07-13 17:00 | `to:suporte@transformatiive.com` / `cc:suporte@transformatiive.com`, last 1h15m (15:45–17:00 UTC) | No new emails to `suporte@transformatiive.com` in the window. Mailbox's only messages to that address are from 2026-06-28 (already answered, internal CRM change list) and August 2025 (AuditConsult / TRNSF-73, already answered). | None |
+| 2026-08-20 17:10 | `to`/`cc: suporte@transformatiive.com`, last 1h15m (15:55–17:10 UTC) | No new emails in the window. Full mailbox scan of that address returns 7 threads total; most recent is 2026-08-17 16:29 UTC (`P1 - LSYSPT-50 - Falha nos Jobs do Dataprep`, Leasys PT / TRNSF-14, already resolved in-thread — client confirmed the refresh fixed it). Nothing untriaged. | None |
