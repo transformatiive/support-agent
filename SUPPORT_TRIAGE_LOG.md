@@ -35,3 +35,4 @@ mapping in `references/config.json` of `inbox-jira-review.skill`), cloud ID
 | Run (UTC) | Email window checked | Result | Tickets created |
 |---|---|---|---|
 | 2026-07-13 17:00 | `to:suporte@transformatiive.com` / `cc:suporte@transformatiive.com`, last 1h15m (15:45–17:00 UTC) | No new emails to `suporte@transformatiive.com` in the window. Mailbox's only messages to that address are from 2026-06-28 (already answered, internal CRM change list) and August 2025 (AuditConsult / TRNSF-73, already answered). | None |
+| 2026-10-06 17:09 | Mailbox scan, last 1h15m (15:54–17:09 UTC); 25 most recent threads (back to 09:38 UTC) checked for `suporte@transformatiive.com` in to/cc | No emails to `suporte@transformatiive.com`. All in-window mail was addressed directly to nbarreto@ (newsletters/notifications, plus Credibom/Estrategor threads sent to the personal address, not suporte@). | None |
