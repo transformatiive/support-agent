@@ -35,3 +35,4 @@ mapping in `references/config.json` of `inbox-jira-review.skill`), cloud ID
 | Run (UTC) | Email window checked | Result | Tickets created |
 |---|---|---|---|
 | 2026-07-13 17:00 | `to:suporte@transformatiive.com` / `cc:suporte@transformatiive.com`, last 1h15m (15:45–17:00 UTC) | No new emails to `suporte@transformatiive.com` in the window. Mailbox's only messages to that address are from 2026-06-28 (already answered, internal CRM change list) and August 2025 (AuditConsult / TRNSF-73, already answered). | None |
+| 2026-10-27 17:05 | `to:suporte@transformatiive.com`, last 1h15m (15:50–17:05 UTC; queried from 2026-10-26) | No emails to `suporte@transformatiive.com` in the window (mailbox searched via Superhuman, account nbarreto@). n8n MCP not authorized, so no vault lookup needed/possible. | None |
